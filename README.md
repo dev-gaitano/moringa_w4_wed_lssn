@@ -10,6 +10,12 @@
 <div align="center">
   Dennis Muchiri - Fullstack Developer
 </div>
+<div align="center">
+  Lynn Kolii - Fullstack Developer
+</div>
+<div align="center">
+  lisa Alusa - Fullstack Developer
+</div>
 
 ## Description
 
