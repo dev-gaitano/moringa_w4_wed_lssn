@@ -1,4 +1,7 @@
 <div align="center">
+    <h1>GIT COLLABORATION</h1>
+</div>
+<div align="center">
     <h2>Authors</h2>
 </div>
 <div align="center">
