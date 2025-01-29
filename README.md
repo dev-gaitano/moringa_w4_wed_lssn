@@ -14,13 +14,12 @@
   Lynn Kolii - Fullstack Developer
 </div>
 <div align="center">
-  lisa Alusa - Fullstack Developer
+  Lisa Alusa - Fullstack Developer
 </div>
 
 ## Description
 
 This is a repository created for the purpose of demonstrating collaboration in git
-test done!
 
 ## Follow these steps to set up the project locally:
 
