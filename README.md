@@ -14,7 +14,7 @@
   Lynn Kolii - Fullstack Developer
 </div>
 <div align="center">
-  lisa Alusa - Fullstack Developer
+  Lisa Alusa - Fullstack Developer
 </div>
 
 ## Description
